@@ -1,0 +1,38 @@
+[
+	{
+		"id": 0,
+		"name": "Toyota RAV4",
+		"price": 62567,
+		"image": "https://static1-repo.aif.ru/1/db/1593691/a56887035ed14ee2da7c18853388da48.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Honda CR-V",
+		"price": 12567,
+		"image": "https://static1-repo.aif.ru/1/3f/1008752/1fa9eb743ca969adf54d6c752e592f4c.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Toyota Corolla",
+		"price": 14900,
+		"image": "https://static1-repo.aif.ru/1/60/2112910/e92b2adebde054e0f9267d023e38b545.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Mercedes B-Klasse",
+		"price": 83167,
+		"image": "https://static1-repo.aif.ru/1/f2/1549704/beb0d635d14b5ee98a46f6bfc9e9741b.jpg"
+	},
+	{
+		"id": 4,
+		"name": "BMW X3",
+		"price": 100093,
+		"image": "https://static1-repo.aif.ru/1/73/1404709/aed266b67e748e80e77b8771dc1ce1f2.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Volkswagen Golf",
+		"price": 62567,
+		"image": "https://static1-repo.aif.ru/1/3d/1977012/c/4aeba9f99ea13f4acc15cf976cc034bb.jpg"
+	}
+]

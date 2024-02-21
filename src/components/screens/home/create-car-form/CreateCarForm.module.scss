@@ -1,0 +1,29 @@
+.form {
+	background-color: #ffffff1f;
+	max-width: 250px;
+	margin-bottom: 15px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	padding: 10px;
+	border-radius: 5px;
+
+	& input {
+		padding: 10px 5px;
+		font-size: 16px;
+		outline: none;
+		border: none;
+		border-radius: 5px;
+		&:focus {
+		}
+	}
+
+	& button {
+		padding: 10px 0;
+		border-radius: 5px;
+		background-color: brown;
+		border: none;
+		color: white;
+		font-weight: bold;
+	}
+}
